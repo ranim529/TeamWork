@@ -6,7 +6,7 @@ this is the execution:
 <img width="865" alt="image" src="https://github.com/user-attachments/assets/44877f62-7c76-43ab-a613-fcb50d708b8e" />
 ............
 Our team members:
-benyamina meriem
-becheri racha chahinez 
-bekeri douaa 
-mamouni khouloud
+benyamina meriem**
+becheri racha chahinez**
+bekeri douaa**
+mamouni khouloud............
